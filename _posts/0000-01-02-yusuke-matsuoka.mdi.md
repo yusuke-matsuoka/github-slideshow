@@ -2,5 +2,5 @@
 layout:slide
 title:"welcome to our second slide!"
 ---
-Your text
+Cho no you ni mai, hachi no youni sasu. Ari.
 Use the left arrow to go back!
